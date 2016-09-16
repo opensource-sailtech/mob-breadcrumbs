@@ -10,5 +10,7 @@ Options for
 - audible signals
 - dsc & epirb radio signals with gps
 
+Blind helms may do best to wear the 360-degree sensory belt described by Aleef: it would vibrate in different places to indicate direction of MOB. Different types of vibration can mean different things, like location and tack of another boat
+
 In a [Yachting World article](http://www.yachtingworld.com/expert-sailing-techniques/stay-safe-board-youre-sailing-short-handed-90432), Pip Hare recommends
-"Keep a stash of light sticks in your pocket – you can throw them over the side to make a trail to sail back along."
+"Keep a stash of light sticks in your pocket – you can throw them over the side to make a trail to sail back along." The iteration explored in this repository would add other signals than just visible light.
